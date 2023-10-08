@@ -1,5 +1,5 @@
 # Crime-Rate-Analytic-Platform
-<img src="https://github.com/DeeyaSingh/Crime-Rate-Analytic-Platform/blob/main/Screenshots/hero-img.png" alt="The homepage" height="300" width="100%">
+<img src="https://github.com/DeeyaSingh/Crime-Rate-Analytic-Platform/blob/main/Screenshots/hero-img.png" alt="The homepage" height="200" width="100%">
 
 
 ## Description
