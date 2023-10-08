@@ -27,7 +27,7 @@ With its foundational pillars firmly in place, CDAP is poised for the next phase
 
 ## 🔧 Installation & Setup
 * **Python & MySQL:** Make sure you've Python 3.7 and MySQL installed.
-* **Clone Repository:** Use git clone to clone this GitHub repository.
+* **Clone Repository:** Use git clone [https://github.com/DeeyaSingh/Crime-Rate-Analytic-Platform.git] to clone this GitHub repository.
 * **Dependencies:** Install all necessary Python modules using pip install -r requirements.txt.
 * **Launch:** Execute the main Python script to initiate the GUI and experience the application.
 
