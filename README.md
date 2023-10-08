@@ -1,4 +1,7 @@
 # Crime-Rate-Analytic-Platform
+
+&nbsp;     ![The homepage](https://github.com/DeeyaSingh/Crime-Rate-Analytic-Platform/blob/main/Screenshots/hero-img.png)
+
 ## Description
 The Crime Rate Analytic Platform (CDAP) offers a sophisticated yet user-friendly toolset tailored for law enforcement agencies. It specializes in providing comprehensive analyses of crime data, subsequently presenting it in easily interpretable visual forms, including bar graphs, pie charts, and other graphical representations. This project emphasizes the study of crime data across four specific regions within India.
 
@@ -14,4 +17,3 @@ The Crime Rate Analytic Platform (CDAP) offers a sophisticated yet user-friendly
 * **Dependencies:** Install all necessary Python modules using pip install -r requirements.txt.
 * **Launch:** Execute the main Python script to initiate the GUI and experience the application.
 
-![The homepage](https://github.com/DeeyaSingh/Crime-Rate-Analytic-Platform/blob/main/Screenshots/Hero.png)
