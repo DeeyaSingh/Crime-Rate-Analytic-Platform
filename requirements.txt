@@ -1,0 +1,7 @@
+python==3.7.*
+mysql-connector-python==8.0.*
+matplotlib==3.4.*
+tkinter==8.6.* 
+
+
+
