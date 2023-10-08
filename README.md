@@ -14,4 +14,4 @@ The Crime Rate Analytic Platform (CDAP) offers a sophisticated yet user-friendly
 * **Dependencies:** Install all necessary Python modules using pip install -r requirements.txt.
 * **Launch:** Execute the main Python script to initiate the GUI and experience the application.
 
-![The homepage:].(https://github.com/DeeyaSingh/Crime-Rate-Analytic-Platform/blob/main/Screenshots/Hero.png?raw=true)
+![The homepage:].(https://github.com/DeeyaSingh/Crime-Rate-Analytic-Platform/blob/main/Screenshots/Hero.png)
